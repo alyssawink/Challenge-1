@@ -9,6 +9,7 @@ Refactored Horiseon page with VS Code. Changed semantic html elements and consol
 
 ## URLs
 https://github.com/alyssawink/Challenge-1/tree/main
+
 file:///Users/Tulio/Desktop/Challenge-1/index.html
 
 ## Author
